@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VoteList>
+    <Item>
+      <Title>Любимый язык программирования?</Title>
+      <Option>
+        <Text>C#</Text>
+        <Count>2</Count>
+      </Option>
+      <Option>
+        <Text>Java</Text>
+        <Count>0</Count>
+      </Option>
+      <Option>
+        <Text>Python</Text>
+        <Count>0</Count>
+      </Option>
+      <Option>
+        <Text>Basic</Text>
+        <Count>0</Count>
+      </Option>
+      <Option>
+        <Text>Pascal</Text>
+        <Count>0</Count>
+      </Option>
+    </Item>
+  </VoteList>
+</Collection>

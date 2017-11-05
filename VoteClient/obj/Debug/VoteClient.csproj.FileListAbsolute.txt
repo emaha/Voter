@@ -1,0 +1,8 @@
+D:\Temp\Vote\VoteClient\bin\Debug\VoteClient.exe.config
+D:\Temp\Vote\VoteClient\bin\Debug\VoteClient.exe
+D:\Temp\Vote\VoteClient\bin\Debug\VoteClient.pdb
+D:\Temp\Vote\VoteClient\bin\Debug\NetworkStuff.dll
+D:\Temp\Vote\VoteClient\bin\Debug\NetworkStuff.pdb
+D:\Temp\Vote\VoteClient\obj\Debug\VoteClient.exe
+D:\Temp\Vote\VoteClient\obj\Debug\VoteClient.pdb
+D:\Temp\Vote\VoteClient\obj\Debug\VoteClient.csprojResolveAssemblyReference.cache
